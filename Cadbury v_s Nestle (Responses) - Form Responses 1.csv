@@ -1,0 +1,143 @@
+Timestamp,Gender,Age Group,Which Chocolate Brand do you prefer?,How Frequently do you buy chocolates?,Which products from your preferred brand do you like the most ? ,"For Cadbury:
+According to it's Taste, how would you like to rate it?
+","For Nestle:
+According to it's Taste, how would you like to rate it ?","For Cadbury:
+According to it's Texture, how would you like to rate it ?","For Nestle :
+According to it's Texture, how would you like to rate it ?","For Cadbury:
+How about the packaging, is it attractive/interesting?  ","For Nestle:
+How about the packaging, is it attractive/interesting?  ",Which brand do you consider the best value for its price?,Which Price range do you prefer to buy the most?,What do you like most about chocolate?,Which brand would you like to recommend to your friend ?
+03-04-24 12:08,Male,18-25,Nestle,Few times a week,Nestle Kitkat,3,5,4,5,Yes,Yes,Nestle,20-40,Texture,Nestle
+03-04-24 18:02,Female,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,5,4,4,4,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-04-24 13:48,Female,18-25,Cadbury,Few times a week,Nestle Kitkat,3,3,4,4,Yes,Yes,Nestle,20-40,Taste,Cadbury
+03-04-24 14:13,Female,18-25,Nestle,Few times a month,Nestle Kitkat,4,5,4,5,Yes,Yes,Cadbury,20-40,Taste,Nestle
+03-04-24 16:37,Male,18-25,Cadbury,Few times a month,Cadbury Silk,4,4,4,4,Yes,Yes,Nestle,20-40,Taste,Cadbury
+03-04-24 16:56,Female,18-25,Cadbury,Few times a week,Cadbury Dairy Milk,3,2,2,2,No,No,Cadbury,50-90,Taste,Cadbury
+03-04-24 17:30,Male,18-25,Cadbury,Rarely,Cadbury Silk,5,4,5,4,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-04-24 17:47,Male,18-25,Cadbury,Few times a week,Cadbury Dairy Milk,4,4,4,4,Yes,No,Cadbury,100 & above,Taste,Cadbury
+03-04-24 18:41,Male,18-25,Cadbury,Rarely,Cadbury Silk,3,3,3,2,No,Yes,Nestle,20-40,Texture,Cadbury
+03-04-24 18:52,Female,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,4,5,4,4,Yes,Yes,Nestle,20-40,Taste,Cadbury
+03-04-24 19:42,Male,18-25,Nestle,Rarely,Nestle Kitkat,3,3,3,3,No,Yes,Nestle,05-Oct,Package,Nestle
+03-04-24 21:00,Male,18-25,Cadbury,Few times a month,Cadbury Bournville,5,4,5,4,Yes,No,Cadbury,20-40,Taste,Cadbury
+03-04-24 21:00,Male,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,3,2,3,3,No,No,Cadbury,20-40,Texture,Cadbury
+03-04-24 21:10,Male,18-25,Cadbury,Few times a month,Nestle Kitkat,4,3,4,3,No,Yes,Cadbury,20-40,Texture,Cadbury
+03-04-24 21:46,Male,18-25,Nestle,Few times a month,Nestle Kitkat,4,5,4,5,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-04-24 21:56,Female,18-25,Cadbury,Rarely,Nestle Kitkat,3,3,2,2,Yes,Yes,Cadbury,20-40,Taste,Nestle
+03-04-24 21:56,Female,18-25,Cadbury,Rarely,Cadbury Dairy Milk,3,3,4,3,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-04-24 22:14,Male,18-25,Nestle,Daily,Nestle Kitkat,1,5,1,5,No,Yes,Nestle,100 & above,Taste,Nestle
+03-04-24 22:27,Female,18-25,Cadbury,Few times a month,Cadbury Bournville,4,3,4,4,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-04-24 22:38,Male,18-25,Nestle,Rarely,Nestle Kitkat,3,4,3,3,No,No,Nestle,20-40,Mood enhancement,Nestle
+03-05-24 0:31,Male,18-25,Cadbury,Rarely,Cadbury Dairy Milk,4,3,4,4,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 7:13,Female,18-25,Cadbury,Rarely,Cadbury Dairy Milk,4,2,4,2,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 8:27,Male,18-25,Cadbury,Few times a month,Cadbury Silk,4,3,4,3,Yes,Yes,Cadbury,50-90,Taste,Cadbury
+03-05-24 8:34,Male,18-25,Cadbury,Few times a week,Cadbury Dairy Milk,5,4,5,5,Yes,Yes,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 8:51,Male,18-25,Nestle,Few times a week,Nestle Kitkat,4,4,4,5,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 9:11,Male,18-25,Cadbury,Rarely,Cadbury Silk,5,5,5,5,Yes,Yes,Cadbury,50-90,Taste,Cadbury
+03-05-24 9:14,Male,18-25,Cadbury,Few times a week,Cadbury Silk,5,4,5,5,Yes,Yes,Nestle,50-90,Taste,Nestle
+03-05-24 9:24,Female,26-40,Nestle,Rarely,Nestle Kitkat,3,3,3,3,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 9:25,Female,18-25,Cadbury,Rarely,Cadbury Dairy Milk,5,4,4,5,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 9:26,Male,18-25,Cadbury,Rarely,Cadbury Silk,4,4,4,3,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 9:29,Male,18-25,Nestle,Few times a week,Nestle Kitkat,4,4,4,4,Yes,Yes,Cadbury,20-40,Taste,Nestle
+03-05-24 9:29,Female,18-25,Nestle,Few times a week,Nestle Kitkat,4,4,4,4,Yes,Yes,Nestle,05-Oct,Mood enhancement,Nestle
+03-05-24 9:36,Male,26-40,Cadbury,Rarely,Cadbury Silk,4,3,4,5,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-05-24 9:37,Male,26-40,Cadbury,Few times a week,Cadbury Dairy Milk,4,4,4,4,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 9:40,Male,18-25,Nestle,Few times a month,Nestle Kitkat,4,5,4,5,Yes,Yes,Nestle,20-40,Mood enhancement,Nestle
+03-05-24 9:40,Male,18-25,Cadbury,Rarely,Cadbury Silk,5,5,5,5,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 9:41,Male,18-25,Cadbury,Rarely,Cadbury Silk,4,3,4,5,Yes,Yes,Cadbury,20-40,Mood enhancement,Nestle
+03-05-24 9:41,Male,26-40,Nestle,Few times a month,Nestle Kitkat,4,4,3,4,Yes,Yes,Nestle,20-40,Mood enhancement,Nestle
+03-05-24 9:45,Female,18-25,Cadbury,Daily,Cadbury Silk,5,5,5,5,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-05-24 9:50,Male,18-25,Cadbury,Few times a month,Nestle Kitkat,5,4,5,5,Yes,Yes,Nestle,20-40,Mood enhancement,Cadbury
+03-05-24 9:51,Female,18-25,Cadbury,Few times a month,Cadbury Silk,4,3,4,3,Yes,Yes,Cadbury,50-90,Taste,Cadbury
+03-05-24 9:52,Female,18-25,Cadbury,Daily,Cadbury Silk,5,5,5,5,Yes,Yes,Cadbury,50-90,Taste,Cadbury
+03-05-24 9:54,Male,26-40,Cadbury,Few times a week,Nestle Kitkat,5,3,4,3,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 10:05,Male,18-25,Cadbury,Few times a week,Cadbury Silk,5,3,4,3,Yes,No,Cadbury,20-40,Taste,Cadbury
+03-05-24 10:05,Female,18-25,Nestle,Few times a week,Nestle Kitkat,1,1,2,1,Yes,Yes,Nestle,20-40,Texture,Nestle
+03-05-24 10:06,Male,18-25,Nestle,Rarely,Nestle Kitkat,4,5,5,5,Yes,Yes,Cadbury,20-40,Taste,Nestle
+03-05-24 10:12,Male,18-25,Nestle,Few times a month,Nestle Kitkat,4,4,4,4,No,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 10:16,Male,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,5,3,5,5,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 10:17,Male,18-25,Cadbury,Few times a week,Cadbury Silk,2,3,1,2,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 10:19,Female,18-25,Nestle,Few times a month,Nestle Kitkat,4,5,4,4,Yes,Yes,Cadbury,05-Oct,Taste,Nestle
+03-05-24 10:24,Female,18-25,Nestle,Few times a month,Nestle Kitkat,5,4,4,5,Yes,Yes,Nestle,50-90,Taste,Nestle
+03-05-24 10:29,Female,18-25,Cadbury,Few times a week,Nestle Kitkat,5,5,5,5,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 10:45,Female,18-25,Cadbury,Few times a month,Nestle Kitkat,4,3,4,4,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 10:46,Male,18-25,Cadbury,Few times a month,Cadbury Bournville,3,3,4,3,Yes,Yes,Cadbury,50-90,Texture,Cadbury
+03-05-24 11:10,Female,18-25,Cadbury,Few times a week,Cadbury Silk,3,2,3,2,No,Yes,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 11:17,Female,18-25,Nestle,Few times a week,Nestle Kitkat,4,5,5,5,Yes,Yes,Cadbury,20-40,Mood enhancement,Nestle
+03-05-24 11:19,Male,18-25,Cadbury,Few times a month,Nestle Kitkat,2,2,4,3,Yes,Yes,Nestle,20-40,Mood enhancement,Cadbury
+03-05-24 11:20,Female,18-25,Cadbury,Few times a month,Nestle Kitkat,3,3,4,4,No,Yes,Cadbury,50-90,Mood enhancement,Nestle
+03-05-24 11:24,Female,18-25,Nestle,Rarely,Nestle Kitkat,1,1,1,1,Yes,Yes,Nestle,05-Oct,Taste,Nestle
+03-05-24 11:24,Male,18-25,Cadbury,Few times a week,Cadbury Dairy Milk,4,4,4,3,No,Yes,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 11:25,Female,18-25,Cadbury,Few times a week,Cadbury Silk,5,4,5,4,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-05-24 11:25,Female,18-25,Nestle,Few times a month,Cadbury Dairy Milk,4,4,4,5,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 11:27,Male,18-25,Cadbury,Few times a month,Cadbury Silk,4,4,3,3,Yes,Yes,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 11:29,Female,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,5,5,5,5,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 11:31,Male,18-25,Nestle,Rarely,Nestle Kitkat,4,4,4,4,No,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 11:32,Male,26-40,Nestle,Few times a week,Nestle Crunch,4,4,4,5,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 11:34,Male,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,4,3,5,5,Yes,No,Cadbury,50-90,Mood enhancement,Cadbury
+03-05-24 11:35,Female,26-40,Cadbury,Daily,Cadbury Dairy Milk,5,3,4,3,Yes,No,Cadbury,50-90,Texture,Cadbury
+03-05-24 11:47,Female,18-25,Cadbury,Few times a week,Cadbury Dairy Milk,5,5,3,5,Yes,Yes,Nestle,20-40,Taste,Cadbury
+03-05-24 11:47,Female,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,4,3,5,4,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 11:48,Male,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,5,4,4,4,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 11:53,Female,18-25,Cadbury,Few times a week,Cadbury Bournville,1,2,3,4,Yes,Yes,Cadbury,20-40,Texture,Cadbury
+03-05-24 11:56,Female,18-25,Cadbury,Few times a month,Cadbury Silk,5,3,5,3,Yes,Yes,Nestle,20-40,Taste,Cadbury
+03-05-24 11:57,Female,18-25,Cadbury,Daily,Nestle Kitkat,2,1,1,3,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 11:59,Male,18-25,Cadbury,Rarely,Nestle Kitkat,3,4,3,4,No,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 12:01,Male,18-25,Cadbury,Daily,Cadbury Silk,3,4,3,4,Yes,Yes,Cadbury,100 & above,Mood enhancement,Cadbury
+03-05-24 12:06,Male,18-25,Cadbury,Rarely,Cadbury Silk,4,3,5,4,Yes,Yes,Cadbury,50-90,Mood enhancement,Cadbury
+03-05-24 12:10,Male,18-25,Cadbury,Rarely,5 star,4,5,4,5,Yes,Yes,Nestle,20-40,Taste,Cadbury
+03-05-24 12:14,Female,18-25,Cadbury,Daily,Nestle Kitkat,1,1,2,4,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 12:34,Male,18-25,Nestle,Rarely,Nestle Kitkat,2,3,3,3,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 12:46,Female,18-25,Cadbury,Few times a month,Cadbury Silk,5,5,5,5,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 12:54,Female,18-25,Cadbury,Few times a week,Nestle Kitkat,4,4,3,4,No,No,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 12:55,Male,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,4,3,3,4,Yes,No,Cadbury,20-40,Taste,Cadbury
+03-05-24 12:57,Male,26-40,Cadbury,Few times a month,Cadbury Silk,4,4,4,3,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 13:04,Male,18-25,Cadbury,Few times a week,Cadbury Silk,4,4,4,4,Yes,Yes,Cadbury,50-90,Taste,Cadbury
+03-05-24 13:10,Female,18-25,Cadbury,Few times a month,Cadbury Silk,4,3,4,3,Yes,Yes,Cadbury,50-90,Mood enhancement,Cadbury
+03-05-24 13:22,Female,18-25,Cadbury,Rarely,Cadbury Dairy Milk,5,4,5,5,Yes,Yes,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 13:27,Female,18-25,Cadbury,Few times a week,Cadbury Dairy Milk,5,4,4,4,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-05-24 13:36,Male,18-25,Cadbury,Rarely,Cadbury Dairy Milk,5,4,5,5,Yes,No,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 13:57,Male,18-25,Nestle,Few times a month,Nestle Kitkat,3,4,3,4,Yes,Yes,Nestle,50-90,Taste,Nestle
+03-05-24 14:16,Male,18-25,Cadbury,Few times a month,Cadbury Bournville,4,3,3,4,Yes,Yes,Nestle,50-90,Mood enhancement,Nestle
+03-05-24 14:22,Female,18-25,Nestle,Rarely,Nestle Kitkat,3,5,5,5,No,Yes,Nestle,100 & above,Taste,Nestle
+03-05-24 14:24,Male,18-25,Cadbury,Few times a month,Cadbury Bournville,4,2,3,3,Yes,No,Cadbury,20-40,Taste,Cadbury
+03-05-24 14:25,Male,18-25,Nestle,Few times a month,Nestle Kitkat,3,5,3,4,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 14:26,Female,18-25,Nestle,Few times a month,Nestle Kitkat,2,5,3,4,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 14:30,Male,18-25,Nestle,Daily,Nestle Kitkat,5,5,5,5,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 14:49,Male,18-25,Cadbury,Rarely,Cadbury Dairy Milk,5,5,4,5,Yes,Yes,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 14:56,Male,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,4,4,4,3,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 15:00,Male,18-25,Nestle,Rarely,Nestle Kitkat,2,5,2,5,No,Yes,Nestle,05-Oct,Taste,Nestle
+03-05-24 15:10,Male,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,4,3,4,4,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 15:17,Female,18-25,Nestle,Few times a week,Nestle Kitkat,4,5,4,5,Yes,Yes,Nestle,20-40,Mood enhancement,Nestle
+03-05-24 15:23,Male,18-25,Nestle,Rarely,Nestle Kitkat,4,5,3,5,Yes,Yes,Nestle,05-Oct,Taste,Nestle
+03-05-24 15:29,Female,18-25,Nestle,Few times a month,Nestle Kitkat,3,4,3,3,No,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 15:36,Female,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,4,3,4,3,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-05-24 15:39,Male,18-25,Cadbury,Few times a month,Cadbury Silk,4,3,3,3,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 15:43,Male,18-25,Cadbury,Few times a month,Cadbury Bournville,4,4,4,4,Yes,Yes,Cadbury,50-90,Taste,Cadbury
+03-05-24 15:45,Female,18-25,Cadbury,Rarely,Cadbury Dairy Milk,4,5,4,2,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 15:58,Male,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,5,5,5,5,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 16:13,Female,18-25,Cadbury,Few times a week,Cadbury Dairy Milk,5,3,5,5,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 17:07,Male,18-25,Cadbury,Few times a month,Cadbury Silk,5,4,4,4,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 17:09,Male,18-25,Cadbury,Few times a week,Cadbury Silk,5,1,1,2,Yes,No,Cadbury,05-Oct,Mood enhancement,Cadbury
+03-05-24 17:44,Female,18-25,Cadbury,Few times a week,Cadbury Silk,5,4,5,4,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-05-24 18:00,Male,18-25,Nestle,Few times a month,Nestle Kitkat,4,5,3,4,Yes,Yes,Nestle,20-40,Mood enhancement,Nestle
+03-05-24 18:38,Female,18-25,Cadbury,Rarely,Cadbury Dairy Milk,1,1,2,2,Yes,Yes,Cadbury,05-Oct,Taste,Cadbury
+03-05-24 19:06,Female,18-25,Nestle,Rarely,Nestle Kitkat,3,4,3,4,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 19:14,Female,18-25,Cadbury,Few times a month,Cadbury Silk,3,3,3,3,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 19:49,Female,18-25,Cadbury,Few times a month,Cadbury Dairy Milk,4,4,4,4,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 20:08,Male,18-25,Cadbury,Few times a week,Cadbury Dairy Milk,5,4,5,5,Yes,Yes,Nestle,50-90,Taste,Cadbury
+03-05-24 21:17,Female,18-25,Cadbury,Few times a week,Nestle Kitkat,4,4,5,4,Yes,Yes,Nestle,20-40,Taste,Nestle
+03-05-24 21:57,Female,18-25,Cadbury,Rarely,Cadbury Dairy Milk,3,2,2,2,Yes,Yes,Cadbury,05-Oct,Texture,Cadbury
+03-05-24 22:07,Female,18-25,Cadbury,Rarely,Nestle Kitkat,4,4,3,3,Yes,Yes,Cadbury,20-40,Mood enhancement,Cadbury
+03-05-24 22:08,Female,18-25,Cadbury,Few times a month,Cadbury Bournville,5,3,4,4,Yes,No,Cadbury,20-40,Taste,Cadbury
+03-05-24 22:10,Female,18-25,Cadbury,Daily,Cadbury Bournville,4,3,4,3,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-05-24 22:21,Male,18-25,Cadbury,Daily,Cadbury Bournville,4,4,4,3,Yes,No,Cadbury,50-90,Taste,Cadbury
+03-05-24 22:33,Male,18-25,Cadbury,Rarely,Cadbury Silk,3,2,2,2,Yes,Yes,Nestle,20-40,Taste,Cadbury
+03-06-24 0:33,Male,18-25,Nestle,Rarely,Nestle Kitkat,3,5,4,5,Yes,Yes,Nestle,20-40,Texture,Nestle
+03-06-24 7:32,Male,18-25,Cadbury,Few times a month,Cadbury Silk,4,3,5,5,Yes,No,Cadbury,20-40,Taste,Cadbury
+03-06-24 14:19,Male,18-25,Cadbury,Few times a month,Cadbury Silk,4,3,4,3,Yes,Yes,Nestle,20-40,Texture,Cadbury
+03-06-24 16:35,Male,18-25,Cadbury,Few times a month,Nestle Kitkat,4,3,4,3,Yes,Yes,Nestle,20-40,Texture,Cadbury
+03-06-24 20:47,Male,18-25,Nestle,Rarely,Nestle Kitkat,4,5,3,4,No,Yes,Nestle,20-40,Mood enhancement,Nestle
+03-06-24 23:31,Male,18-25,Cadbury,Rarely,Cadbury Dairy Milk,5,5,5,5,Yes,Yes,Cadbury,50-90,Taste,Cadbury
+03-07-24 9:58,Female,18-25,Nestle,Daily,Nestle Kitkat,4,4,4,5,Yes,Yes,Nestle,05-Oct,Texture,Nestle
+03-07-24 21:06,Male,18-25,Cadbury,Few times a month,Cadbury Silk,5,5,5,5,Yes,Yes,Cadbury,20-40,Taste,Cadbury
+03-07-24 22:32,Female,18-25,Cadbury,Few times a month,Cadbury Bournville,4,4,4,2,Yes,No,Cadbury,20-40,Mood enhancement,Cadbury
+,,,,,,,,,,,,,,,
